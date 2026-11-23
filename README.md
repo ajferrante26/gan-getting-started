@@ -10,10 +10,6 @@ gradient penalty reduces the severity without preventing the outcome, and spectr
 normalization with hinge loss overshoots into a discriminator that cannot separate
 real from generated images at all. The memorization analysis comes out clean.
 
-**Note on the assignment brief.** The Problem and Purpose bullet asks for "realistic
-dog images." That line does not match the dataset or the metric. The competition is
-Monet paintings scored by MiFID, and this project addresses that task.
-
 ---
 
 ## Dataset
