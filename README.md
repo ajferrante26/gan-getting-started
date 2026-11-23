@@ -2,7 +2,7 @@
 
 Unconditional deep convolutional GAN trained from scratch on the 300 Monet
 paintings from Kaggle's **GANs Getting Started** competition (*I'm Something of a
-Painter Myself*). Built for CSC-8150 Assignment 7.
+Painter Myself*).
 
 The project trains three configurations that each fail differently, which is the
 main result. A plain DCGAN collapses into discriminator dominance, adding an R1
@@ -299,11 +299,6 @@ Minimum ratio 1.45. The closest generated image is farther from any training
 painting than the two most similar training paintings are from each other, so no
 replication is detected. The generated side had 300,000 candidate pairs against
 89,700 for the training side, which makes the conclusion conservative.
-
-### MiFID
-
-Pending. Fill in after the first scored upload, together with the submission ID and
-timestamp.
 
 ---
 
